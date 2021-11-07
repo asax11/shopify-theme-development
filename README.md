@@ -1,1 +1,1 @@
-# Shopify theme projectg 
+# Shopify theme project
