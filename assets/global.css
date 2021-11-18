@@ -1,0 +1,9 @@
+header,body, .site-header__mobile-nav {
+
+    background-color: chocolate;
+}
+
+.site-header{
+    background-color: darkgreen;
+    
+}
